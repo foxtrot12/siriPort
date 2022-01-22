@@ -136,6 +136,8 @@ a:hover {
   min-height: 1197px;
 }
 
+
+
 .tm-welcome-container {
   min-height: 400px;
   position: absolute;
@@ -293,6 +295,28 @@ p {
   min-height: 420px;
   margin-right: 35px;
   background-color:  rgba(216, 198, 48, 0.9);
+  padding: 54px 34px 44px;
+}
+
+
+
+.tm-contact-item-skyBlue {
+  width: 33.3334%;
+  max-width: 345px;
+  height: auto;
+  min-height: 420px;
+  margin-right: 35px;
+  background-color:  rgba(47, 214, 214, 0.8);
+  padding: 54px 34px 44px;
+}
+
+.tm-contact-item-teal {
+  width: 33.3334%;
+  max-width: 345px;
+  height: auto;
+  min-height: 420px;
+  margin-right: 35px;
+  background-color:  rgba(47 , 214, 146, 0.8);
   padding: 54px 34px 44px;
 }
 

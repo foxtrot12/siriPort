@@ -131,6 +131,7 @@ a:hover {
   background: transparent;
 }
 
+
 #tmContact {
   min-height: 1197px;
 }
@@ -185,6 +186,18 @@ a:hover {
 
 }
 
+#tmCourse {
+  padding-top: 80px;
+  padding-bottom: 80px;
+  padding-right: 80px;
+  padding-left: 80px;
+  background: rgba(128, 128, 128, 0.7);
+
+
+
+
+}
+
 .tm-portfolio-item {
   display: flex;
   align-items: center;
@@ -206,6 +219,16 @@ a:hover {
   height: 220px;
   font-size: 1.2 rem;
   padding: 70px 95px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+
+.tm-course-name {
+  width: 200px;
+  height: 110px;
+  font-size: 1.7 rem;
+  padding: 10px 10px;
   display: flex;
   align-items: center;
   text-align: center;
@@ -259,7 +282,7 @@ p {
   height: auto;
   min-height: 420px;
   margin-right: 35px;
-  background-color: white;
+  background-color:  rgba(225, 225, 225, 0.8);
   padding: 54px 34px 44px;
 }
 
@@ -269,7 +292,7 @@ p {
   height: auto;
   min-height: 420px;
   margin-right: 35px;
-  background-color: white;
+  background-color:  rgba(216, 198, 48, 0.9);
   padding: 54px 34px 44px;
 }
 
@@ -297,6 +320,11 @@ p {
   max-width: 680px;
   padding: 45px 45px 30px;
   margin-bottom: 95px;
+}
+
+.text-right{
+  text-align: right;
+  align-items: right;
 }
 
 .form-group {

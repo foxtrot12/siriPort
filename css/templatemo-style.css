@@ -285,40 +285,27 @@ p {
   height: auto;
   min-height: 420px;
   margin-right: 35px;
-  background-color:  rgba(225, 225, 225, 0.8);
   padding: 54px 34px 44px;
 }
 
 .tm-contact-item-trophy {
-  width: 33.3334%;
-  max-width: 345px;
-  height: auto;
-  min-height: 420px;
-  margin-right: 35px;
+
   background-color:  rgba(216, 198, 48, 0.9);
-  padding: 54px 34px 44px;
 }
 
+.tm-contact-item-grey {
+
+  background-color:  rgba(225, 225, 225, 0.8);
+}
 
 
 .tm-contact-item-skyBlue {
-  width: 33.3334%;
-  max-width: 345px;
-  height: auto;
-  min-height: 420px;
-  margin-right: 35px;
+  
   background-color:  rgba(47, 214, 214, 0.8);
-  padding: 54px 34px 44px;
 }
 
 .tm-contact-item-teal {
-  width: 33.3334%;
-  max-width: 345px;
-  height: auto;
-  min-height: 420px;
-  margin-right: 35px;
-  background-color:  rgba(47 , 214, 146, 0.8);
-  padding: 54px 34px 44px;
+   background-color:  rgba(47 , 214, 146, 0.8);
 }
 
 .tm-contact-item:last-child {
